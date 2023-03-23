@@ -1,0 +1,30 @@
+Marghera-Venezia 
+1300 + 697 
+144 
+1948 
+Oppenheimer 
+I sumeri 
+Francese, italiano, tedesco, romancio 
+Cina 
+116 
+Federation International de Football Association 
+Ogni 4 anni 
+In Inghilterra 
+Frutta 
+Vespa di mare 
+Zero 
+Ritorna a capo su una nuova linea 
+Sono: '&&', '!', '||' 
+Un byte 
+For(inizializzazione;condizione;incremento) 
+Solo due 
+Esegue prima un' istruzione, poi la condizione 
+Con ' std::cout<< ' 
+'+', '-', '*', '/', '%' 
+Nulla 
+Con // per una sola riga, con /**/ per piu' righe 
+Funzione main 
+Legge riga per riga da un file aperto 
+2020 
+6 
+Valentino Bravi 
