@@ -1,7 +1,7 @@
 # TrivialCPlusPlus
 <b> Presentazione del progetto di fine corso </B><br>
 
-Il seguente progetto è stato realizzato da Marzia, Rosita e Valerio per la chiusura del corso di programmazione in C++ organizzato da AstroIT in collaborazione con Umana.
+Il seguente progetto è stato per la conclusione del corso di programmazione in C++ organizzato da AstroIT in collaborazione con Umana.
 Il programma rappresenta un semplice gioco a risposta multipla.
 Il programma è stato sviluppato con argomentazioni studiate ed approfondite in questo corso. 
 
